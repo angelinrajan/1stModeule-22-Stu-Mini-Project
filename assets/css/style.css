@@ -15,8 +15,6 @@ header {
 }
 
 .Nav {
-    position:static;
-    height: 25px;
     color: purple;
     text-align: right;
 }
@@ -66,6 +64,5 @@ footer {
 }
 
 #end {
-    margin:1%;
-    bottom: 50%;
+    margin-top:1%;
 }
